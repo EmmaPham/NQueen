@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f77fc73feceb54dc9b19b7dfcaec99d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mText: {instanceID: 0}
+  - mQueen: {fileID: 8332514777268246385, guid: fbffa25f4b10d4a269c9133b356329d0,
+      type: 3}
+  - mMarked: {fileID: 7512952575877760683, guid: 39b8e75f008f94b5db1445c4815f9997,
+      type: 3}
+  - mNotthisSpot: {fileID: 5521747191198546041, guid: d0f8287135b0e49a499c41bf8dfe321e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

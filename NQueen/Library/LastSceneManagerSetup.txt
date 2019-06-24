@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/NQueen.unity
+  isLoaded: 1
+  isActive: 1
